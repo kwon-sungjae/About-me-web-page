@@ -60,6 +60,7 @@ HTML/CSS/JavaScript 및 AOS 애니메이션 효과를 활용하여 포트폴리�
 ---
 
 ## 📁 프로젝트 구조
+```
 about-me-web-page/
 ├── index.html
 ├── style.css
@@ -68,6 +69,7 @@ about-me-web-page/
 │ ├── me2.jpg
 │ ├── mock1.png ~ mock6.png
 ├── README.md
+```
 
 ---
 
@@ -75,4 +77,5 @@ about-me-web-page/
 **권성재 | AI & 데이터 분석가 지망생**  
 📫 연락: [chris123ag@naver.com] [010-9491-0965]
 🔗 GitHub: [https://github.com/kwon-sungjae]
+
 
